@@ -1,4 +1,4 @@
-# Range Sum Query
+# Good Pair
 
 ## Problem
 

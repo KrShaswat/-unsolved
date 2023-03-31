@@ -1,4 +1,4 @@
-# Range Sum Query
+# Count of element
 
 ## Problem
 
