@@ -9,5 +9,5 @@ export const minMaxOfArray = (A) => {
           min = A[i]
       }
   }
-  return Number(max + min)
+  return parseInt(max + min)
 }

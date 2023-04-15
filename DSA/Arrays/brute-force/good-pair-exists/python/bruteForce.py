@@ -1,4 +1,4 @@
-def solve(self, A, B):
+def goodPairExists(self, A, B):
         for i in range(0,len(A)):
               for j in range(i+1, len(A)):
                   if (A[i]+A[j]) == B :
